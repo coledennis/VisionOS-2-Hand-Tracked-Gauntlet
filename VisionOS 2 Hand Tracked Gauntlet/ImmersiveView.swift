@@ -37,6 +37,7 @@ struct ImmersiveView: View {
                
             }
         }
+        .upperLimbVisibility(.hidden)
     }
 }
 
